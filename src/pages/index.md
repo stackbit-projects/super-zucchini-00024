@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Features Section
+    title: HappyMailer
     subtitle: Features Section Example
     features:
       - title: 'Finally, sending letters without any of the hassle.'

@@ -85,7 +85,7 @@ sections:
     features: []
     feature_padding_vert: small
     background_color: primary
-  - title: lorem-ipsum
+  - title: FAQ
     content: >-
       ## Lorem ipsum
 

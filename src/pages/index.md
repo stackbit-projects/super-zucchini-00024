@@ -4,9 +4,11 @@ sections:
   - type: hero_section
     title: We print and send your letters for you.
     subtitle: Going to the Post Office is so passé.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Upload your PDF, select your recipient anywhere in Canada, enjoy your time
+      well-spent.
+
+      Starting at $0.98.
     actions:
       - label: Try Free
         url: /pricing

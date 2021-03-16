@@ -127,12 +127,11 @@ sections:
       #### What about data safety ?
 
 
-      Glad you are concerned by that, we are too ! Now that we will never read
-      any of your mail and all data will be deleted after 3 months from our
-      servers.
+      We will never read any of your mail and all letters will be deleted after
+      3 months from our servers.
 
-      Please note that HappyMailer is not intended to be used for confidential
-      content, but only for mail without any sensible information. 
+      Please note however that HappyMailer is not intended to be used for
+      confidential content, but only for mail without any sensible information.
     actions:
       - label: lorem-ipsum
         url: '#'

@@ -26,10 +26,9 @@ sections:
     subtitle: Features Section Example
     features:
       - title: 'Finally, sending letters without any of the hassle.'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Send us your PDF, we take care of everything. We will print and post
+          your letters for you, so you don't have to worry about it anymore.
         actions:
           - label: Learn More
             url: /style-guide

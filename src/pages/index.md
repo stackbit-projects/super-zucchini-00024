@@ -25,7 +25,7 @@ sections:
     title: Features Section
     subtitle: Features Section Example
     features:
-      - title: 'Finally, sending letters without the hassle.'
+      - title: 'Finally, sending letters without any of the hassle.'
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

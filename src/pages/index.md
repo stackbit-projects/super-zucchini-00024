@@ -112,9 +112,10 @@ sections:
       #### How does that work ?
 
 
-      Just upload PDFs of your choice, and write the address of your recipient.
-      We will print your document, put it in a letter and send it either the
-      same day, or the next day if not possible.
+      Just upload PDFs of your choice, and write the address of your recipient
+      (again, only in Canada at the moment). We will then print your document,
+      put it in a letter and send it either the same day, or the very next day
+      if not possible.
     actions:
       - label: lorem-ipsum
         url: '#'

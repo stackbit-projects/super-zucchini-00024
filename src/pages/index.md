@@ -100,11 +100,12 @@ sections:
       *   dolor sit amet
 
 
-      ### What is this ? 
+      ### What is this ?
 
 
       HappyMailer is a tool that allows you to send letters without needing to
-      look around for stamps, envelopes and oh-so-precious printer ink.
+      look around for stamps, envelopes and *oh-so-precious* printer ink. We
+      take care of all that for you.
     actions:
       - label: lorem-ipsum
         url: '#'

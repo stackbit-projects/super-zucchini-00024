@@ -86,17 +86,17 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - title: FAQ
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## You have questions. We have answers.
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     actions:
       - label: lorem-ipsum
         url: '#'

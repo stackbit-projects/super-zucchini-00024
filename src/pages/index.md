@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: features_section
     title: HappyMailer
-    subtitle: 'Save some time, quickly send all your canadian mail with'
+    subtitle: 'Save some time, don''t miss out and simply send all your Canadian mail with'
     features:
       - title: 'Finally, sending letters without any of the hassle.'
         content: >

@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We print and send your letters for you.
-    subtitle: Optional hero section subtitle
+    subtitle: Going to the Post Office is so passé.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.

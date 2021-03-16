@@ -86,7 +86,25 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - title: FAQ
-    content: "## You have questions. &#xA;We have answers.\n\n*   Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n*   Lorem ipsum\n\n*   dolor sit amet\n\n### What is this ? Where am I ?\n\nRelax \U0001F642\nHappyMailer is a tool that allows you to send letters without needing to look around for stamps, envelopes and oh-so-precious printer ink.\n"
+    content: >
+      ## You have questions. &#xA;We have answers.
+
+
+      *   Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      *   Lorem ipsum
+
+
+      *   dolor sit amet
+
+
+      ### What is this ? 
+
+
+      HappyMailer is a tool that allows you to send letters without needing to
+      look around for stamps, envelopes and oh-so-precious printer ink.
     actions:
       - label: lorem-ipsum
         url: '#'

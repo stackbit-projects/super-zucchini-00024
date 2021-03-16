@@ -41,10 +41,9 @@ sections:
         media_position: right
         media_width: fifty
       - title: 'Secured, on time and reliable.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Your mail sent to us before 5pm will be sent the same day during
+          weekdays, and 3pm on weekends. 
         actions:
           - label: Learn More
             url: /style-guide

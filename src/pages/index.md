@@ -43,8 +43,7 @@ sections:
       - title: 'Secured, on time and reliable.'
         content: >
           Your data is stored on our secure servers, and no one will ever read
-          your mail. Also, all PDFs sent to us before 5pm will be sent the same
-          day during weekdays, and 3pm on weekends. 
+          your mail. 
         actions:
           - label: Learn More
             url: /style-guide

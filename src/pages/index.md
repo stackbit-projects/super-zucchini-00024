@@ -42,8 +42,8 @@ sections:
         media_width: fifty
       - title: 'Secured, on time and reliable.'
         content: >
-          Your data is stored on our secure servers, and no one will ever read
-          your mail. 
+          Your data is stored on our secure servers and deleted after 3 months.
+          Be assured that no one will ever read your mail.
         actions:
           - label: Learn More
             url: /style-guide

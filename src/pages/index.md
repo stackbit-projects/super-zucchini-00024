@@ -116,6 +116,23 @@ sections:
       (again, only in Canada at the moment). We will then print your document,
       put it in a letter and send it either the same day, or the very next day
       if not possible.
+
+
+      #### Can I send letters outside of Canada ?
+
+
+      You had to ask, didn't you ? Not at the moment, sorry about that !
+
+
+      #### What about data safety ?
+
+
+      Glad you are concerned by that, we are too ! Now that we will never read
+      any of your mail and all data will be deleted after 3 months from our
+      servers.
+
+      Please note that HappyMailer is not intended to be used for confidential
+      content, but only for mail without any sensible information. 
     actions:
       - label: lorem-ipsum
         url: '#'

@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We print and send your letters for you.
-    subtitle: Going to the Post Office is so passé.
+    subtitle: Because going to the Post Office is so passé.
     content: >
       Upload your PDF, select your recipient anywhere in Canada, enjoy your time
       well-spent.

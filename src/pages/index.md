@@ -13,7 +13,7 @@ sections:
       - label: Try Free
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Send a letter
         url: /features
         style: secondary
     image: images/classic/feature-1.png

@@ -100,12 +100,21 @@ sections:
       *   dolor sit amet
 
 
-      ### What is this ?
+      #### What is this ?
 
 
-      HappyMailer is a tool that allows you to send letters without needing to
-      look around for stamps, envelopes and *oh-so-precious* printer ink. We
-      take care of all that for you.
+      HappyMailer is a tool that allows you to simply send letters within
+      Canada. You can now mail people without needing to look around for stamps,
+      envelopes and *oh-so-precious* printer ink. We take care of all that for
+      you.
+
+
+      #### How does that work ?
+
+
+      Just upload PDFs of your choice, and write the address of your recipient.
+      We will print your document, put it in a letter and send it either the
+      same day, or the next day if not possible.
     actions:
       - label: lorem-ipsum
         url: '#'

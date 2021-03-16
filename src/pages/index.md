@@ -87,7 +87,7 @@ sections:
     background_color: primary
   - title: FAQ
     content: >
-      ## You have questions. We have answers.
+      ## You have questions. &#xA;We have answers.
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do

@@ -10,9 +10,6 @@ sections:
 
       Starting at $0.98.
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Send a letter
         url: /features
         style: secondary

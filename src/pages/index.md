@@ -100,10 +100,11 @@ sections:
       *   dolor sit amet
 
 
-      ### Who are you ?
+      ### What is this ?
 
 
-      Someone with too much time apparently.
+      This is a too that allows you to send letters without needing to look
+      around for stamps, envelopes and oh-so-precious printer ink.
     actions:
       - label: lorem-ipsum
         url: '#'

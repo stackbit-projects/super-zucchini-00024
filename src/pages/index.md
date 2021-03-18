@@ -63,7 +63,7 @@ sections:
     features: []
     feature_padding_vert: small
     background_color: primary
-  - title: '"But how does it work though ?"'
+  - title: Send your mail in 4 easy steps
     content: >
       1.  Upload your PDF, just as you would like to be posted in the letter
 

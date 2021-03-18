@@ -49,11 +49,6 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/category/general",
-                "style": "link"
-            },
-            {
                 "label": "FAQ",
                 "url": "/blog/category/tutorials",
                 "style": "link"

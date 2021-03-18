@@ -27,9 +27,9 @@ sections:
     features:
       - title: "Finally, sending letters without any of the hassle\_\U0001F64C"
         content: >
-          Send us your PDF, HappyMailer will take care of everything. We will
-          print and post your letters for you, so you don't have to worry about
-          it anymore.
+          Send us your PDF, we will take care of everything : We will print and
+          post your letters for you, so you don't have to worry about buying
+          stamps anymore.
         actions:
           - label: Learn More
             url: /style-guide

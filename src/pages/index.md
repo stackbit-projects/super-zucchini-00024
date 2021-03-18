@@ -64,18 +64,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - title: 'Send your mail in 4 easy steps :'
-    content: >
-      1.  Upload your PDF, just as you would like to be posted in the letter
-
-
-      2.  Fill in address details, the return and destination address
-
-
-      3.  Confirm your purchase
-
-
-      4.  Congrats, You just sent mail ! We will print, stamp and send your
-      letter
+    content: "1.  Upload your PDF, just as you would like to be posted in the letter\n\n2.  Fill in address details, the return and destination address (Canada only \U0001F1E8\U0001F1E6) \n\n3.  Confirm your purchase\n\n4.  Congrats, You just sent mail ! We will print, stamp and send your letter\n"
     actions: []
     actions_position: bottom
     actions_width: fourty

@@ -33,11 +33,6 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Send a letter",
-                "url": "/pricing",
-                "style": "primary"
-            },
-            {
                 "label": "Français",
                 "url": "#",
                 "style": "link",
@@ -47,6 +42,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Send a letter",
+                "url": "/pricing",
+                "style": "primary"
             }
         ],
         "has_anncmnt": false,

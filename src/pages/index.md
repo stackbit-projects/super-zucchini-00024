@@ -30,7 +30,7 @@ sections:
           Send us your PDF and off you go : we will print and post your letters
           for you, so you don't have to worry about buying stamps anymore.
           <br>
-          Unless you like collecting them ? No judgment.
+          Unless you like collecting them ? No judgment there !
         actions:
           - label: Learn More
             url: /style-guide

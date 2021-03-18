@@ -113,7 +113,8 @@
                 "icon_position": "center",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "HappyMailer ©2021"
     },
     "title": "Stackbit DIY Theme",
     "domain": "https://super-zucchini-00024.netlify.app"

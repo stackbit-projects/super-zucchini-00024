@@ -43,7 +43,7 @@ sections:
         media_width: fifty
       - title: "Secured, on time and reliable\_\U0001F512"
         content: >
-          Your data is stored on our secure servers and deleted after 1 month.
+          Your data is stored on our secure servers and deleted after one month.
           Be assured that no one will ever read your mail.
         actions:
           - label: Learn More

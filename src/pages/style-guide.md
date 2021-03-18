@@ -43,13 +43,17 @@ Just upload PDFs of your choice, and write the address of your recipient (again,
 
 A regular letter, identical to the PDF you upload. There will not be any specific markings on the envelope.
 
+#### Can I track my mail ?
+
+At the moment, we do not offer tracking. Sorry !
+
 #### What about data safety ?
 
-We will never read any of your mail and all letters will be deleted after 3 months from our servers. Please note however that HappyMailer is not intended to be used for confidential content, but only for mail without any sensible information.
+We will never read any of your mail and all letters will be deleted after 1 month from our servers. Please note however that HappyMailer is not intended to be used for confidential content, but only for mail without any sensible information.
 
 #### When will my letter arrive ?
 
-At the moment, we do not offer tracking. The letter will be sent from Montreal via the regular route of Canada Post, which will take around :
+The letter will be sent from Montreal via the regular route of Canada Post, which will take around :
 
 *   2 business days within a city
 

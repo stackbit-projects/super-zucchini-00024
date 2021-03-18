@@ -68,7 +68,7 @@ sections:
       1.  Upload your PDF, just as you would like to be posted in the letter
 
 
-      2.  Fill in address details, like the return and destination address
+      2.  Fill in address details, the return and destination address
 
 
       3.  Confirm your purchase

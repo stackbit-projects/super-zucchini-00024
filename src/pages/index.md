@@ -41,7 +41,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: 'Secured, on time and reliable'
+      - title: "Secured, on time and reliable\_\U0001F512"
         content: >
           Your data is stored on our secure servers and deleted after 1 month.
           Be assured that no one will ever read your mail.

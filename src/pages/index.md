@@ -7,7 +7,7 @@ sections:
     content: >
       Upload your PDF, select your recipient anywhere in Canada, and send them
       your regards.
-
+    <br>
       Starting at $0.98.
     actions:
       - label: Send a letter

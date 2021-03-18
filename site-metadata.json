@@ -46,7 +46,7 @@
             {
                 "label": "Send a letter",
                 "url": "/pricing",
-                "style": "link"
+                "style": "primary"
             }
         ],
         "has_anncmnt": false,

@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: HappyMailer
+    title: "HappyMailer\_\U0001F389"
     subtitle: Save some time and simply send all your Canadian mail with
     features:
       - title: 'Finally, sending letters without any of the hassle.'

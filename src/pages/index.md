@@ -65,9 +65,6 @@ sections:
     background_color: primary
   - title: '"But how does it work though ?"'
     content: >
-      #####
-
-
       1.  Upload your pdf, just as you would like to be posted in the letter
 
 

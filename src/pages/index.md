@@ -29,6 +29,7 @@ sections:
         content: >
           Send us your PDF and off you go : we will print and post your letters
           for you, so you don't have to worry about buying stamps anymore.
+          Unless you like collecting them ? No judgment.
         actions:
           - label: Learn More
             url: /style-guide

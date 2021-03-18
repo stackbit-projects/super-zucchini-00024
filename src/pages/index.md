@@ -65,7 +65,7 @@ sections:
     background_color: primary
   - title: '"But how does it work though ?"'
     content: >
-      1.  Upload your pdf, just as you would like to be posted in the letter
+      1.  Upload your PDF, just as you would like to be posted in the letter
 
 
       2.  Fill in address details, like the return and destination address
@@ -75,7 +75,7 @@ sections:
 
 
       4.  Congrats, You just sent mail ! We will print, stamp and send your
-      letter 
+      letter
     actions: []
     actions_position: bottom
     actions_width: fourty

@@ -49,7 +49,7 @@
     "footer": {
         "logo": "images/spectacular-pine.png",
         "logo_alt": "DIY logo",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "label": "About",

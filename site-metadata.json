@@ -28,17 +28,6 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Français",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Send a letter",
                 "url": "/pricing",
                 "style": "primary"

@@ -41,7 +41,7 @@ Just upload PDFs of your choice, and write the address of your recipient (again,
 
 #### What will my letter look like ?
 
-A regular letter, identical to the PDF you upload. There will not be any specific markings on the envelope.
+A regular letter, identical to the PDF you upload. There will not be any specific markings on the envelope (except the address, obviously)
 
 #### Can I track my mail ?
 

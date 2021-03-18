@@ -64,7 +64,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - title: '"But how does it work though ?"'
-    content: "## Like \U0001F44F this \U0001F44F\n\n1.  Upload your pdf, just as you would like to be posted in the letter\n\n\n2.  Fill in address details, like the return and destination address\n\n\n3.  Confirm your purchase\n\n\n4.  Congrats, You just sent mail ! We will print, stamp and send your letter !\n"
+    content: "##### Like \U0001F44F this \U0001F44F\n\n1.  Upload your pdf, just as you would like to be posted in the letter\n\n2.  Fill in address details, like the return and destination address\n\n3.  Confirm your purchase\n\n4.  Congrats, You just sent mail ! We will print, stamp and send your letter !\n"
     actions: []
     actions_position: bottom
     actions_width: fourty

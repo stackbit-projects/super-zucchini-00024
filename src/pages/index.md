@@ -75,7 +75,7 @@ sections:
 
 
       4.  Congrats, You just sent mail ! We will print, stamp and send your
-      letter !
+      letter 
     actions: []
     actions_position: bottom
     actions_width: fourty

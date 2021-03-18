@@ -26,8 +26,7 @@ sections:
     subtitle: Save some time and simply send all your Canadian mail with
     features:
       - title: "Finally, sending letters without any of the hassle\_\U0001F64C"
-        content: "Send us your PDF and off you go : we will print and post your letters for you, so you don't have to worry about buying stamps anymore.  <br>
-        Unless you like collecting them ? Whatever float your boat \U0001F617\n"
+        content: "Send us your PDF and off you go : we will print and post your letters for you, so you don't have to worry about buying stamps anymore.  <br> Unless you like collecting them ? Whatever float your boat \U0001F617\n"
         actions:
           - label: Learn More
             url: /style-guide
@@ -41,8 +40,9 @@ sections:
         media_width: fifty
       - title: "Secured, on time and reliable\_\U0001F512"
         content: >
-          Your data is stored on our secure servers and deleted after one month.
-          Be assured that no one will ever read your mail.
+          No need to sign up ! Your data is stored on our secure servers and
+          deleted after one month. Be assured that no one will ever read your
+          mail.
         actions:
           - label: Learn More
             url: /style-guide

@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: We print and send your letters for you.
+    title: We print and send your letters for you. Voila !
     subtitle: 'It''s not being lazy, it''s being time-preserving.'
     content: >
       Upload your PDF, select your recipient anywhere in Canada, and send them

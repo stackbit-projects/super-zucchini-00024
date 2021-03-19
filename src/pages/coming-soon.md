@@ -13,7 +13,7 @@ sections:
     form_action: mailing
     form_fields:
       - input_type: text
-        name: lorem-ipsum
+        name: mailing
         label: Enter your e-mail to be notified of our launch (and nothing else)
         default_value: mscott@dundermifflin.com
         options: []

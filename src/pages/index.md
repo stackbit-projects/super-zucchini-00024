@@ -44,10 +44,7 @@ sections:
 
 
           Your mail is stored on our secure servers and deleted after one month.
-          Poof.
-
-
-          Be assured that no one will ever read your mail.
+          Be assured, that no one will ever read your mail.
         actions:
           - label: Learn More
             url: /coming-soon

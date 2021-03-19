@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We print and send your letters for you.
-    subtitle: Because going to the Post Office is so passé.
+    subtitle: 'You''re not lazy, you''re time-'
     content: >
       Upload your PDF, select your recipient anywhere in Canada, and send them
       your regards.

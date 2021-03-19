@@ -10,7 +10,7 @@ sections:
     form_layout: stacked
     enable_card: false
     form_id: mailing
-    form_action: 'https://formsubmit.io/send/'
+    form_action: 'https://formsubmit.io/send/happymailercan@gmail.com'
     form_fields:
       - input_type: email
         name: mailing

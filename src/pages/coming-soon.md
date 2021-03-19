@@ -17,7 +17,7 @@ sections:
     content_align: left
     form_position: bottom
     form_width: fifty
-    form_layout: stacked
+    form_layout: inline
     enable_card: true
     form_id: lorem-ipsum
     form_action: lorem-ipsum

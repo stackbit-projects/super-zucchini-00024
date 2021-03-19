@@ -1,7 +1,7 @@
 ---
 title: Coming soon
 sections:
-  - title: lorem-ipsum
+  - title: Coming soon !
     subtitle: lorem-ipsum
     title_align: left
     content: >-

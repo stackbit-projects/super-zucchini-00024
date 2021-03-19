@@ -14,7 +14,7 @@ sections:
     form_fields:
       - input_type: email
         name: mailing
-        label: Enter your e-mail to be notified of our launch (and nothing else)
+        label: Enter your e-mail to be notified of our launch
         default_value: mscott@dundermifflin.com
         options: []
         is_required: true

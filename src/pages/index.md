@@ -45,7 +45,7 @@ sections:
           mail.
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /coming-soon
             style: primary
             has_icon: true
             icon: arrow-right

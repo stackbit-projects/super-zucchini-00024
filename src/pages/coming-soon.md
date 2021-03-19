@@ -14,7 +14,9 @@ sections:
     form_fields:
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: >-
+          Enter your e-mail to be notified of our launch (and only of our
+          launch, we swear !)
         default_value: lorem-ipsum
         options: []
         is_required: false

@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Coming '
 sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum

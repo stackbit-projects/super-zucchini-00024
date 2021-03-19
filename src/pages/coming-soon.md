@@ -1,5 +1,5 @@
 ---
-title: 'Coming '
+title: Coming soon
 sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum

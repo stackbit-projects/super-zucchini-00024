@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: 'Frequently Asked Questions of '
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content

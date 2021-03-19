@@ -15,7 +15,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Enter your e-mail to be notified of our launch (and nothing else)
-        default_value: michael_scott
+        default_value: michael_scott@
         options: []
         is_required: false
         type: form_field

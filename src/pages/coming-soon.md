@@ -16,8 +16,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: >-
-          Enter your e-mail to be notified of our launch (and only of our
-          launch, we swear !)
+          Enter your e-mail to be notified of our launch (and nothing else, we swear !)
         default_value: lorem-ipsum
         options: []
         is_required: false

@@ -2,7 +2,6 @@
 title: Coming soon
 sections:
   - title: Coming soon !
-    subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum

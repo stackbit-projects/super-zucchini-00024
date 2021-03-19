@@ -17,7 +17,7 @@ sections:
         label: Enter your e-mail to be notified of our launch (and nothing else)
         default_value: mscott@dundermifflin.com
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Submit
     align_vert: top

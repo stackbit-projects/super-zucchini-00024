@@ -29,7 +29,7 @@ template: page
 
 #### What is this ?
 
-HappyMailer is a tool that allows you to simply send letters within Canada. You can now mail people without needing to look around for stamps, envelopes and some *oh-so-expensive* printer ink. We take care of all that for you.
+LazyMailer is a tool that allows you to simply send letters within Canada. You can now mail people without needing to look around for stamps, envelopes and some *oh-so-expensive* printer ink. We take care of all that for you.
 
 #### How does that work ?
 
@@ -49,7 +49,7 @@ At the moment, we do not offer tracking. Sorry !
 
 #### What about data safety ?
 
-We will never read any of your mail and all letters will be deleted after 1 month from our servers. Please note however that HappyMailer is not intended to be used for confidential content, but only for mail without any sensible information.
+We will never read any of your mail and all letters will be deleted after 1 month from our servers. Please note however that LazyMailer is not intended to be used for confidential content, but only for mail without any sensible information.
 
 #### When will my letter arrive ?
 

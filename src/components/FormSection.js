@@ -76,7 +76,7 @@ export default class FormSection extends React.Component {
                 					<div className="sr-only">
                 						<label id={_.get(section, 'form_id', null) + '-honeypot-label'} htmlFor={_.get(section, 'form_id', null) + '-honeypot'}>Don't fill this out if you're human:</label>
                 						<input aria-labelledby={_.get(section, 'form_id', null) + '-honeypot-label'} id={_.get(section, 'form_id', null) + '-honeypot'} name={_.get(section, 'form_id', null) + '-bot-field'} />
-                                         <input name="_formsubmit_id" type="text" style="display:none"></input>
+                                         <input name="_formsubmit_id" type="text" style="display:none" /></input>
                 					</div>
                 					<input aria-labelledby={_.get(section, 'form_id', null) + '-honeypot-label'} type="hidden" name="form-name" value={_.get(section, 'form_id', null)} />
                 					<div className={classNames('form-content', {'flex': form_is_inline, 'flex-column': form_is_inline, 'flex-xs-row': form_is_inline})}>

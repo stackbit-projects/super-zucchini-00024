@@ -3,8 +3,7 @@ title: Coming soon
 sections:
   - title: Coming soon !
     title_align: left
-    content: "#### HappyMailer is not *quite there* operational yet.\n\nDon't miss out on the grand opening !\nEnter your mail below to be notified of the future of mailing \U0001F680 <br>
-    This is a no-spam guarantee, we hate it too ! \n"
+    content: "#### HappyMailer is not *quite there* operational yet.\n\nDon't miss out on the grand opening !\nEnter your mail below to be notified of the future of mailing \U0001F680 <br> This is a no-spam guarantee, we hate it too ! \n"
     content_align: left
     form_position: bottom
     form_width: fifty
@@ -15,9 +14,8 @@ sections:
     form_fields:
       - input_type: text
         name: lorem-ipsum
-        label: >-
-          Enter your e-mail to be notified of our launch (and nothing else)
-        default_value: lorem-ipsum
+        label: Enter your e-mail to be notified of our launch (and nothing else)
+        default_value: michael
         options: []
         is_required: false
         type: form_field

@@ -11,7 +11,7 @@ sections:
       Starting at $0.98.
     actions:
       - label: Send a letter
-        url: /features
+        url: /coming-soon
         style: secondary
     image: images/classic/feature-1.png
     image_alt: Hero section placeholder image

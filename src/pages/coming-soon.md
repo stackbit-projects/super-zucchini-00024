@@ -10,7 +10,7 @@ sections:
     form_layout: stacked
     enable_card: false
     form_id: mailing
-    form_action: mailing
+    form_action: Basin
     form_fields:
       - input_type: email
         name: mailing

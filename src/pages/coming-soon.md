@@ -12,7 +12,7 @@ sections:
     form_id: mailing
     form_action: mailing
     form_fields:
-      - input_type: text
+      - input_type: email
         name: mailing
         label: Enter your e-mail to be notified of our launch (and nothing else)
         default_value: mscott@dundermifflin.com

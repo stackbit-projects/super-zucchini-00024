@@ -24,7 +24,7 @@
         "secondary_nav_links": [
             {
                 "label": "Send a letter",
-                "url": "/pricing",
+                "url": "/coming-soon",
                 "style": "primary"
             }
         ],

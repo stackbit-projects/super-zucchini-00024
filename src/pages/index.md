@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: HappyMailer
+    title: LazyMailer
     subtitle: Going to send your mail yourself ? This is so passé !
     features:
       - title: "Finally, sending letters without any of the hassle\_\U0001F64C"

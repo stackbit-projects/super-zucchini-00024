@@ -40,11 +40,11 @@ sections:
         media_width: fifty
       - title: "Secured, on time and reliable\_\U0001F512"
         content: >
-          No need to sign up, no data collection ! 
+          No need to sign up, no data collection !
+
 
           Your mail is stored on our secure servers and deleted after one month.
           Poof.
-
 
           Be assured that no one will ever read your mail.
         actions:

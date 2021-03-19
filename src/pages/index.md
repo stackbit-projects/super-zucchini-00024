@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: features_section
     title: HappyMailer
-    subtitle: Save some time and simply send all your Canadian mail with
+    subtitle: Going to send your mail yourself ? This is so passé !
     features:
       - title: "Finally, sending letters without any of the hassle\_\U0001F64C"
         content: "Send us your PDF and off you go : we will print and post your letters for you, so you don't have to worry about buying stamps anymore.  <br> Unless you like collecting them ? Whatever float your boat \U0001F617\n"

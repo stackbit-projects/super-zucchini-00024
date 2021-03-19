@@ -29,7 +29,7 @@ sections:
         content: "Send us your PDF and off you go : we will print and post your letters for you, so you don't have to worry about buying stamps anymore.  <br> Unless you like collecting them ? Whatever float your boat \U0001F617\n"
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /coming-soon
             style: primary
             has_icon: true
             icon: arrow-right

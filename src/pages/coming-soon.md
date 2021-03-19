@@ -10,7 +10,7 @@ sections:
     form_layout: stacked
     enable_card: false
     form_id: mailing
-    form_action: 'https://formsubmit.io/send/881fae15-0ea7-48f0-adb6-a7fa9133a43c'
+    form_action: 'https://formsubmit.io/send/ac7c2fcc-7561-4300-a4c4-170b5e7e1d58'
     form_fields:
       - input_type: email
         name: mailing

@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We print and send your letters for you.
-    subtitle: 'You''re not lazy, you''re time-'
+    subtitle: 'It''s not being lazy, it''s being time-preserving.'
     content: >
       Upload your PDF, select your recipient anywhere in Canada, and send them
       your regards.

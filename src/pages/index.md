@@ -89,7 +89,7 @@ seo:
       value: Lazymailer
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: We print and send your mail, for you.
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png

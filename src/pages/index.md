@@ -98,7 +98,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit DIY Theme
+      value:  ThemeStackbit DIY
     - name: 'twitter:description'
       value: The preview of the DIY theme
     - name: 'twitter:image'

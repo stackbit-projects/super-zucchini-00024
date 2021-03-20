@@ -1,6 +1,6 @@
 {
   "name": "LazyMailer",
-  "description": "Stackbit DIY Theme",
+  "description": "Send your mail online, without going to the Post Office",
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {

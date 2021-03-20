@@ -79,7 +79,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
 seo:
-  title:  ThemStackbit DIYe
+  title:  LazyMailer
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'

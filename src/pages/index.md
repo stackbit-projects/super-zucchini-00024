@@ -100,7 +100,7 @@ seo:
     - name: 'twitter:title'
       value:  LazyMailer
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: We print and send your mail, for you.
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true

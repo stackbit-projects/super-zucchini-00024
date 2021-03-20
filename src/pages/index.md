@@ -80,7 +80,7 @@ sections:
     type: cta_section
 seo:
   title:  LazyMailer
-  description: The preview of the DIY theme
+  description: We send your mail, for you.
   extra:
     - name: 'og:type'
       value: website

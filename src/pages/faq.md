@@ -2,7 +2,7 @@
 title: FAQ
 seo:
   title: LazyMailer FAQ
-  description: A reference for suggested typographic treatment and styles for your content
+  description: All your questions regarding LazyMailer, the service that goes to the Post Office for you.
   extra:
     - name: 'og:type'
       value: website

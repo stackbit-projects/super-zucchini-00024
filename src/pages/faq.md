@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Theme Style Guide
+      value: LazyMailer FAQ
     - name: 'twitter:description'
       value: >-
         A reference for suggested typographic treatment and styles for your

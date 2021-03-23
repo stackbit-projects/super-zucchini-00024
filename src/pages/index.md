@@ -35,7 +35,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: images/classic/post-4.png
-        image_alt: Feature 1 placeholder image
+        image_alt: We go to the 
         media_position: right
         media_width: fifty
       - title: "Secured, on time and reliable\_\U0001F512"

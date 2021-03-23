@@ -20,8 +20,7 @@ seo:
       value: LazyMailer FAQ
     - name: 'twitter:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        All your questions regarding LazyMailer, the service that goes to the Post Office for you.
 template: page
 ---
 ## You have questions. Luckily, we have answers.

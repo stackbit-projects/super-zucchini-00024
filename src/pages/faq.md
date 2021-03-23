@@ -12,7 +12,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        All your questions regarding LazyMailer, the service that goes to the 
+        All your questions regarding LazyMailer, the service that goes to the Post Office for you.
       keyName: property
     - name: 'twitter:card'
       value: summary

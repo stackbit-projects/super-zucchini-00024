@@ -1,7 +1,7 @@
 ---
 title: FAQ
 seo:
-  title: Theme Style Guide
+  title: LazyMailer FAQ
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'

@@ -12,8 +12,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        All your questions regarding LazyMailer, the service that goes to the 
       keyName: property
     - name: 'twitter:card'
       value: summary
